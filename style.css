@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+button {
+  font-size: 24px;
+  padding: 15px 30px;
+  margin: 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 12px;
+}
+
+h1 {
+  color: #333;
+}
+
+.leaderboard, .task {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 30px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
